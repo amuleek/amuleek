@@ -15,6 +15,11 @@ int main()
 			break;
 		case '-':
 			cout<<num1-num2;
+		case '*':
+			cout<<num1*num2;
+		case '/':
+			cout<<num1/num2;
+
 	}
 }
 
