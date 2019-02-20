@@ -1,7 +1,2 @@
-#include<stdio.h>
-int main()
-{
-printf("Hello world");
+This is text file
 
-return 0;
-}
