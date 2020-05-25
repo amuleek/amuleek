@@ -9,3 +9,7 @@ cout << "Enter an operator (+, -, *, /): ";
     cin >> o;
     cout << "Enter two operands: ";
     cin >> num1 >> num2;
+ 
+    switch (o) 
+    {
+        case '+':
