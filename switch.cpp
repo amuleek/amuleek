@@ -13,3 +13,5 @@ cout << "Enter an operator (+, -, *, /): ";
     switch (o) 
     {
         case '+':
+            cout << num1 << " + " << num2 << " = " << num1+num2;
+            break;
