@@ -26,3 +26,5 @@ case '/':
             break;
 default:
             // operator is doesn't match any case constant (+, -, *, /)
+cout << "Error! operator is not correct";
+            break;
